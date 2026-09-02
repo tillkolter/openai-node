@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "openai": "^4.40.1"
+  },
+  "overrides": {
+    "form-data": "4.0.6"
   }
 }
